@@ -39,3 +39,8 @@
 * Evaluated seat occupancy rates to optimize seating arrangements and enhance the customer experience.
 * Demonstrated expertise in data analysis and visualization to support data-driven decision-making.
 ![](/images/pizza%20sales.JPG)
+
+#### [Certificate of Completion: Data Scientist with Python (90 Hours)](https://www.datacamp.com/statement-of-accomplishment/track/d7e64dfce4a4ff7d1d3b6e38e395aa7cbdbfdf1e?raw=1)
+Organization: DataCamp
+
+I successfully completed the Data Scientist with Python program at DataCamp, a comprehensive 90-hour course. This certification showcases my proficiency in utilizing Python for data analysis and equips me with essential skills to excel in the field of data science.
