@@ -9,6 +9,6 @@
   August 2017 - May 2021
 
 ## Projects
-### Project 1: UNDERSTANDING THE ROLE OF GROCERY PURCHASE AND SOCIO-ECONOMIC FACTORS ON CHILDHOOD OBESITY AND DEPRIVATION
+### [Project 1: UNDERSTANDING THE ROLE OF GROCERY PURCHASE AND SOCIO-ECONOMIC FACTORS ON CHILDHOOD OBESITY AND DEPRIVATION](https://github.com/vrajesh990/Tesco)
 * Successfully developed predictive models for Index of Multiple Deprivation (IMD) rank and childhood obesity prevalence using advanced machine learning techniques.
 * Demonstrated exceptional proficiency in feature selection, hyperparameter tuning, and cross-validation to optimize model performance.
