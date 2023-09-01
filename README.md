@@ -22,4 +22,4 @@
 * Assess the model's performance using metrics such as accuracy, precision, recall, F1-score, and ROC-AUC.
 * Employ techniques for handling class imbalance, if necessary.
 * Fine-tune the model to optimize its performance.
-
+![](/images/tumor.JPG)
