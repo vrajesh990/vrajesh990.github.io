@@ -3,7 +3,7 @@ Hello, nice to meet you. Data Scientist here
 
 ## Projects
 ### [Project 1: UNDERSTANDING THE ROLE OF GROCERY PURCHASE AND SOCIO-ECONOMIC FACTORS ON CHILDHOOD OBESITY AND DEPRIVATION](https://github.com/vrajesh990/Tesco)
- integrated machine learning and statistical analysis to uncover complex relationships between grocery purchase patterns, socio-economic factors, childhood obesity, and deprivation.
+ Integrated machine learning and statistical analysis to uncover complex relationships between grocery purchase patterns, socio-economic factors, childhood obesity, and deprivation.
 ![](/images/IMD_visual.jpg)
 
 ### [Project 2 : Tumour-Classification---knn-classifier](https://github.com/vrajesh990/Tumour-Classification---knn-classifier)
@@ -11,7 +11,7 @@ Developed a robust machine-learning model capable of classifying tumors as benig
 ![](/images/tumor.JPG)
 
 ### [Project 3 : Pizza Restaurant Sales Analysis and Optimization](https://github.com/vrajesh990/pizza-restaurant-sales/blob/main/pizza%20sales.ipynb)
-* Conducted a comprehensive data analysis project for Plato's Pizza, a Greek-inspired restaurant in New Jersey.
+Conducted a comprehensive data analysis project for Plato's Pizza, a Greek-inspired restaurant in New Jersey.
 ![](/images/pizza%20sales.JPG)
 
 #### [Certificate of Completion: Data Scientist with Python (90 Hours)](https://www.datacamp.com/statement-of-accomplishment/track/d7e64dfce4a4ff7d1d3b6e38e395aa7cbdbfdf1e?raw=1)
